@@ -1,5 +1,5 @@
 
-name: Nuget Publish JMW Extensions
+name: Nuget Publish JMW Readline
 
 on:
   push:
