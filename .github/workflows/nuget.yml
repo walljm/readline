@@ -24,7 +24,7 @@ jobs:
     - name: Publish to NuGet
       uses: brandedoutcast/publish-nuget@v2
       with:
-        PROJECT_FILE_PATH: src/ReadLine/ReadLine.csproj
+        PROJECT_FILE_PATH: src/ReadLine/JMW.ReadLine.csproj
         VERSION_REGEX: '^\s*<AssemblyVersion>(.*)<\/AssemblyVersion>\s*$'
         TAG_FORMAT: '*'
         NUGET_KEY: ${{secrets.NUGET_API_KEY}}
