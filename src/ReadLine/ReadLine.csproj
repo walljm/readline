@@ -1,20 +1,20 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <AssemblyTitle>ReadLine</AssemblyTitle>
+    <AssemblyTitle>JMW.ReadLine</AssemblyTitle>
     <AssemblyDescription>A GNU-Readline like library for .NET/.NET Core</AssemblyDescription>
     <AssemblyVersion>2.0.1</AssemblyVersion>
-    <Authors>Toni Solarin-Sodara</Authors>
+    <Authors>Toni Solarin-Sodara, Jason Wall</Authors>
     <TargetFramework>netstandard2.0</TargetFramework>
     <DebugType>portable</DebugType>
-    <AssemblyName>ReadLine</AssemblyName>
-    <PackageId>ReadLine</PackageId>
+    <AssemblyName>JMW.ReadLine</AssemblyName>
+    <PackageId>JMW.ReadLine</PackageId>
     <PackageVersion>$(AssemblyVersion)</PackageVersion>
     <PackageTags>readline;gnu;console;shell;cui</PackageTags>
-    <PackageProjectUrl>https://github.com/tonerdo/readline</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/tonerdo/readline/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/walljm/readline</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/walljm/readline/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/tonerdo/readline</RepositoryUrl>
+    <RepositoryUrl>https://github.com/walljm/readline</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
