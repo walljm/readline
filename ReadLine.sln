@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{06FC0E85-E73C-4DC1-B6FD-A583B7B1DFE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadLine", "src\ReadLine\ReadLine.csproj", "{9EB290C9-BB52-4B24-9779-5A816AC75E18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMW.ReadLine", "src\ReadLine\JMW.ReadLine.csproj", "{9EB290C9-BB52-4B24-9779-5A816AC75E18}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadLine.Demo", "src\ReadLine.Demo\ReadLine.Demo.csproj", "{4C512FD1-A0E8-4908-B0A4-B0D85947716A}"
 EndProject
