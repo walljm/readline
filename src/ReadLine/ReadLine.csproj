@@ -8,6 +8,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <DebugType>portable</DebugType>
     <AssemblyName>JMW.ReadLine</AssemblyName>
+    <PackageName>JMW.ReadLine</PackageName>
     <PackageId>JMW.ReadLine</PackageId>
     <PackageVersion>$(AssemblyVersion)</PackageVersion>
     <PackageTags>readline;gnu;console;shell;cui</PackageTags>
