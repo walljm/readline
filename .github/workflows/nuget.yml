@@ -20,7 +20,7 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
-      run: dotnet build ./src/ReadLine/ReadLine.csproj -c Release --no-restore
+      run: dotnet build ./src/ReadLine/JMW.ReadLine.csproj -c Release --no-restore
     - name: Publish to NuGet
       uses: brandedoutcast/publish-nuget@v2
       with:
